@@ -1,0 +1,19 @@
+.banner {
+  background-image: url(../../images/fondue.jpeg);
+  background-size: cover;
+  background-position: center;
+  padding: 80px 0;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 1px 1px 2px grey;
+}
+
+.banner p {
+  color: white;
+  opacity: 1;
+  font-size: 20px;
+  text-shadow: 1px 1px 2px grey;
+}
+
